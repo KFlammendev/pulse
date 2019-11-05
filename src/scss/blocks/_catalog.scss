@@ -38,7 +38,7 @@
     }
     &__content {
         margin-top: 60px;
-        display: none
+        display: none;
         justify-content: space-between;
         flex-wrap: wrap;
         &_active {
@@ -114,7 +114,7 @@
         }
         &__content {
             width: 50%;
-            margin-right: 20px;
+            margin-right: 0px;
             transform: translateX(-100%);
             transition: 0.5s all;
             &_active {
